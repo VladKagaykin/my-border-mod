@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "my-border-mod",
+  "version": "1.0.0",
+  "name": "Dynamic World Border",
+  "description": "Динамическая граница мира",
+  "authors": ["example"],
+  "contact": {},
+  "license": "Apache-2.0",
+  "icon": "assets/my-border-mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.MyBorderMod"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.19.4",
+    "java": ">=17"
+  }
+}
