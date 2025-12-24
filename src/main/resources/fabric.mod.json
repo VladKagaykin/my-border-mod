@@ -10,7 +10,7 @@
   "icon": "assets/my-border-mod/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": ["com.example.MyBorderMod"]
+    "main": ["com.AVCD.MyBorderMod"]
   },
   "mixins": [],
   "depends": {
